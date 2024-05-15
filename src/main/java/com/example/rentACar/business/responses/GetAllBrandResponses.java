@@ -4,8 +4,6 @@ import lombok.*;
 
 //son kullanıcıya data döndüreceksek "response" kullanıyoruz
 @Data
-@Getter
-@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 public class GetAllBrandResponses {

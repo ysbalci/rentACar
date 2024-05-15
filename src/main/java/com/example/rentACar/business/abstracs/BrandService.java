@@ -4,7 +4,7 @@ import com.example.rentACar.business.requests.CreateBrandRequest;
 import com.example.rentACar.business.requests.UpdateBrandRequest;
 import com.example.rentACar.business.responses.GetAllBrandResponses;
 import com.example.rentACar.business.responses.GetByIdBrandResponse;
-import com.example.rentACar.entities.concretes.Brand;
+
 
 import java.util.List;
 
